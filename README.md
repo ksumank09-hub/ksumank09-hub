@@ -106,7 +106,7 @@ A machine-learning based NLP project that analyzes social media text and classif
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="[https://leetcode.com/u/_Suman_K/](https://leetcode.com/u/_Suman_K/)"
+<a href="[https://leetcode.com/YOUR_LEETCODE/](https://leetcode.com/u/_Suman_K/)">
 <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
 </a>
 
@@ -114,11 +114,11 @@ A machine-learning based NLP project that analyzes social media text and classif
 <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black"/>
 </a>
 
-<a href="mailto:ksuman09@gmail.com">
+<a href="mailto:ksumank09@gmail.com">
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-</p>---
+</p>
 
 <p align="center">
   💻 Code • Learn • Build • Repeat
