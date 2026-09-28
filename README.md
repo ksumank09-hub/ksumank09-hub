@@ -92,7 +92,7 @@ A machine-learning based NLP project that analyzes social media text and classif
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sumank09&show_icons=true&theme=dark&hide_border=true" />
 </p>
-## 🤝 Let's Connect
+
 
 ## 🔗 Coding & Social Profiles
 
