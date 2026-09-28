@@ -43,7 +43,7 @@ I enjoy taking a problem, breaking it down, writing clean and structured code, a
 
 ---
 
-## 🛠️ My Toolbox
+
 ## 🛠️ My Toolbox
 
 ### 💻 Languages & Web
@@ -88,15 +88,6 @@ A machine-learning based NLP project that analyzes social media text and classif
 
 **Technologies:** Python • NLP • TF-IDF • SVM
 
----
-
-### 📊 More Projects
-
-Check out my GitHub repositories to see more of my work.
-
----
-
-## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sumank09&show_icons=true&theme=dark&hide_border=true" />
@@ -115,7 +106,7 @@ Check out my GitHub repositories to see more of my work.
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="[https://leetcode.com/YOUR_LEETCODE/](https://leetcode.com/u/_Suman_K/)"
+<a href="[https://leetcode.com/u/_Suman_K/](https://leetcode.com/u/_Suman_K/)"
 <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
 </a>
 
