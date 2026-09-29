@@ -53,7 +53,9 @@ I enjoy taking a problem, breaking it down, writing clean and structured code, a
 
 ### 🤖 AI-Based Business Advisor Chatbot
 
-An AI-powered assistant designed to help entrepreneurs with business ideas, business planning, marketing strategies, revenue forecasting and risk classification.
+* **Group Project** – Developed using Python and Machine Learning
+* **Role:**  Developer
+* [View Project](https://github.com/sanjankumar540/Ai-based-business-advisor-chatbot)
 
 **Technologies:** Python • Flask • MySQL • Machine Learning • LLM
 
