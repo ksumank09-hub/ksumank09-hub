@@ -46,31 +46,13 @@ I enjoy taking a problem, breaking it down, writing clean and structured code, a
 
 ## 🛠️ My Toolbox
 
-### 💻 Languages & Web
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,html,css,js" />
-</p>
-
-### 🌐 Frameworks
-
-<p>
-<img src="https://skillicons.dev/icons?i=react,django,flask" />
-</p>
-
-### 🗄️ Database & AI/ML
-
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,tensorflow,sklearn" />
-</p>
-
-### 🔧 Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode" />
-</p>
-
 ---
+
+## 🛠️ My Toolbox
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,html,css,js,react,django,flask,mysql,tensorflow,git,github,vscode" />
+</p>
 
 ## 🚀 Featured Projects
 
