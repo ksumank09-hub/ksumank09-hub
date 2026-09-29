@@ -90,7 +90,7 @@ A machine-learning based NLP project that analyzes social media text and classif
 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sumank09&show_icons=true&theme=dark&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=ksumank09-hub&show_icons=true&theme=dark&hide_border=true" />
 </p>
 
 
@@ -98,7 +98,7 @@ A machine-learning based NLP project that analyzes social media text and classif
 
 <p align="center">
 
-<a href="https://github.com/sumank09">
+<a href="https://github.com/ksumank09-hub">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
