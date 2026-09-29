@@ -41,12 +41,7 @@ I enjoy taking a problem, breaking it down, writing clean and structured code, a
 
 ### 🔥 Code • Learn • Build • Repeat
 
----
-
-
-## 🛠️ My Toolbox
-
----
+--
 
 ## 🛠️ My Toolbox
 
